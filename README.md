@@ -27,15 +27,17 @@ Model validation: Validate the regression model on the data from 2017 and evalua
 
 Forecasting: Use the trained regression model to forecast store sales for the next year, based on historical data.
 
-Requirements
-This project requires the following libraries:
+Setup ⚙️
+To set up and run the Streamlit app in your local environment, follow these instructions:
 
-pandas
-numpy
-matplotlib
-statsmodels
-Usage
-Clone this repository:
+Clone this repository to your local machine using the following command. Replace <repository-url> with the actual url to this repository:
+Clone
+
+Create and activate a virtual environment:
+venv
+
+Install requirements.txt:
+Requirements
 
 2.Install the required libraries:
 
