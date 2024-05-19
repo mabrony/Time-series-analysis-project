@@ -1,8 +1,8 @@
 
-Regression Project for Time Series Forecasting of Store Sales for Corporation Favorita
+## Regression Project for Time Series Forecasting of Store Sales for Corporation Favorita
 This is a regression project for time series forecasting of store sales for Corporation Favorita, a large retail corporation with stores throughout Latin America. The project uses data from 2013 to 2017 and includes information on daily sales, promotions, and weather patterns, among other variables. The goal of the project is to develop a regression model that can accurately forecast store sales for the next year, based on historical data.
 
-Data
+## Data
 The data used in this project is available in the following files:
 
 holidays_events.csv: Details about the holidays and events that occurred during the given period.
@@ -27,8 +27,9 @@ Model validation: Validate the regression model on the data from 2017 and evalua
 
 Forecasting: Use the trained regression model to forecast store sales for the next year, based on historical data.
 
-Setup ⚙️
-Clone this repository to your local machine using the following command. Replace <repository-url> with the actual url to this repository:
+## Setup ⚙️
+
+## Clone this repository to your local machine using the following command. Replace <repository-url> with the actual url to this repository:
 Clone
 
 Create and activate a virtual environment:
