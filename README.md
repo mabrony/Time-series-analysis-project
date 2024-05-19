@@ -28,8 +28,6 @@ Model validation: Validate the regression model on the data from 2017 and evalua
 Forecasting: Use the trained regression model to forecast store sales for the next year, based on historical data.
 
 Setup ⚙️
-To set up and run the Streamlit app in your local environment, follow these instructions:
-
 Clone this repository to your local machine using the following command. Replace <repository-url> with the actual url to this repository:
 Clone
 
